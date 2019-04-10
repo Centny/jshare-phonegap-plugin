@@ -1,0 +1,33 @@
+{
+  "name": "jshare-phonegap-plugin",
+  "version": "1.0.0",
+  "description": "JShare for cordova plugin",
+  "cordova": {
+    "id": "jshare-phonegap-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpush/jpush-phonegap-plugin.git"
+  },
+  "keywords": [
+    "JPush",
+    "push",
+    "Push",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "devDependencies": {
+    "cordova-plugin-device": "*",
+    "cordova-plugin-jcore": ">=1.2.8"
+  },
+  "author": "Centny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpush/jpush-phonegap-plugin/issues"
+  },
+  "homepage": "https://github.com/jpush/jpush-phonegap-plugin#readme"
+}
